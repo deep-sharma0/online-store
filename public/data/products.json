@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Earbuds Pro",
+    "price": 1299,
+    "image": "https://picsum.photos/seed/earbuds/300/300",
+    "description": "True wireless earbuds with active noise cancellation and 24hr battery life.",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch X100",
+    "price": 2499,
+    "image": "https://picsum.photos/seed/smartwatch/300/300",
+    "description": "Tracks heart rate, sleep, and SpO2 with a 1.4 inch HD display.",
+    "category": "Wearables"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse RGB Thunder",
+    "price": 899,
+    "image": "https://picsum.photos/seed/gamingmouse/300/300",
+    "description": "High precision gaming mouse with 6 programmable buttons and RGB lighting.",
+    "category": "Gaming"
+  },
+  {
+    "id": 4,
+    "name": "Portable Blender USB",
+    "price": 799,
+    "image": "https://picsum.photos/seed/blender/300/300",
+    "description": "Mini portable blender for smoothies and shakes, rechargeable via USB.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 5,
+    "name": "Leather Wallet Classic",
+    "price": 599,
+    "image": "https://picsum.photos/seed/wallet/300/300",
+    "description": "Genuine leather bi-fold wallet with RFID blocking technology.",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Noise Cancelling Headphones Elite",
+    "price": 3499,
+    "image": "https://picsum.photos/seed/headphones/300/300",
+    "description": "Over-ear headphones with deep bass and 30-hour playtime.",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Smart Band Activity Tracker",
+    "price": 1299,
+    "image": "https://picsum.photos/seed/fitnessband/300/300",
+    "description": "Lightweight fitness band with water resistance and sleep monitoring.",
+    "category": "Wearables"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Gaming Keyboard K1",
+    "price": 2199,
+    "image": "https://picsum.photos/seed/keyboard/300/300",
+    "description": "Blue switch mechanical keyboard with customizable RGB backlight.",
+    "category": "Gaming"
+  },
+  {
+    "id": 9,
+    "name": "Electric Kettle Steel 1.5L",
+    "price": 999,
+    "image": "https://picsum.photos/seed/kettle/300/300",
+    "description": "Fast boiling electric kettle with auto shut-off feature.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 10,
+    "name": "Sunglasses Aviator Polarized",
+    "price": 850,
+    "image": "https://picsum.photos/seed/sunglasses/300/300",
+    "description": "Classic aviator style sunglasses with UV protection lenses.",
+    "category": "Accessories"
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker BassBoom",
+    "price": 1499,
+    "image": "https://picsum.photos/seed/speaker/300/300",
+    "description": "Portable wireless speaker with powerful 360-degree sound.",
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "name": "Hybrid Smartwatch Nova",
+    "price": 4999,
+    "image": "https://picsum.photos/seed/hybridwatch/300/300",
+    "description": "Analog look with smart features like notifications and tracking.",
+    "category": "Wearables"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Gamepad Controller",
+    "price": 1899,
+    "image": "https://picsum.photos/seed/gamepad/300/300",
+    "description": "Ergonomic wireless controller compatible with PC and console.",
+    "category": "Gaming"
+  },
+  {
+    "id": 14,
+    "name": "Handheld Garment Steamer",
+    "price": 1199,
+    "image": "https://picsum.photos/seed/steamer/300/300",
+    "description": "Compact steamer for quick wrinkle removal on the go.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 15,
+    "name": "Canvas Laptop Backpack",
+    "price": 1350,
+    "image": "https://picsum.photos/seed/backpack/300/300",
+    "description": "Durable canvas bag with padded compartment for 15.6 inch laptops.",
+    "category": "Accessories"
+  },
+  {
+    "id": 16,
+    "name": "USB-C Hub Multiport",
+    "price": 1599,
+    "image": "https://picsum.photos/seed/usbhub/300/300",
+    "description": "7-in-1 USB-C hub with HDMI, SD card reader, and USB 3.0 ports.",
+    "category": "Electronics"
+  },
+  {
+    "id": 17,
+    "name": "Round Smart Watch Gen 5",
+    "price": 3299,
+    "image": "https://picsum.photos/seed/roundwatch/300/300",
+    "description": "Stylish round display smartwatch with GPS and built-in speaker.",
+    "category": "Wearables"
+  },
+  {
+    "id": 18,
+    "name": "Gaming Headset Surround",
+    "price": 2299,
+    "image": "https://picsum.photos/seed/headset/300/300",
+    "description": "Over-ear gaming headset with 7.1 surround sound and noise mic.",
+    "category": "Gaming"
+  },
+  {
+    "id": 19,
+    "name": "Sandwich Maker Non-Stick",
+    "price": 749,
+    "image": "https://picsum.photos/seed/sandwichmaker/300/300",
+    "description": "Easy-clean sandwich grill with power indicator lights.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 20,
+    "name": "Analog Watch Premium Steel",
+    "price": 1999,
+    "image": "https://picsum.photos/seed/analogwatch/300/300",
+    "description": "Stainless steel analog watch with mineral glass and date display.",
+    "category": "Accessories"
+  },
+  {
+    "id": 21,
+    "name": "Power Bank 20000mAh Fast",
+    "price": 1799,
+    "image": "https://picsum.photos/seed/powerbank/300/300",
+    "description": "High capacity power bank with 18W fast charging support.",
+    "category": "Electronics"
+  },
+  {
+    "id": 22,
+    "name": "Kids Smart Watch Safe",
+    "price": 1899,
+    "image": "https://picsum.photos/seed/kidswatch/300/300",
+    "description": "Smartwatch for kids with GPS tracking and SOS button.",
+    "category": "Wearables"
+  },
+  {
+    "id": 23,
+    "name": "PS5 Controller Skin Set",
+    "price": 499,
+    "image": "https://picsum.photos/seed/controllerskin/300/300",
+    "description": "Silicone skin cover for PS5 controller, anti-slip design.",
+    "category": "Gaming"
+  },
+  {
+    "id": 24,
+    "name": "Electric Handheld Massager",
+    "price": 1450,
+    "image": "https://picsum.photos/seed/massager/300/300",
+    "description": "Cordless massager with multiple speed settings for pain relief.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 25,
+    "name": "Mens Belt Leather Brown",
+    "price": 650,
+    "image": "https://picsum.photos/seed/belt/300/300",
+    "description": "Classic brown leather belt with brushed metal buckle.",
+    "category": "Accessories"
+  },
+  {
+    "id": 26,
+    "name": "Webcam HD 1080P",
+    "price": 2199,
+    "image": "https://picsum.photos/seed/webcam/300/300",
+    "description": "Full HD webcam with built-in microphone and privacy cover.",
+    "category": "Electronics"
+  },
+  {
+    "id": 27,
+    "name": "Smart Ring Health Tracker",
+    "price": 2999,
+    "image": "https://picsum.photos/seed/smartring/300/300",
+    "description": "Wearable ring that tracks sleep, activity, and heart rate.",
+    "category": "Wearables"
+  },
+  {
+    "id": 28,
+    "name": "Gaming Mouse Pad XL RGB",
+    "price": 799,
+    "image": "https://picsum.photos/seed/mousepad/300/300",
+    "description": "Extended large mouse pad with stitched edges and RGB border.",
+    "category": "Gaming"
+  },
+  {
+    "id": 29,
+    "name": "Hair Dryer Professional",
+    "price": 1299,
+    "image": "https://picsum.photos/seed/hairdryer/300/300",
+    "description": "Powerful 1800W hair dryer with 2 heat and speed settings.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 30,
+    "name": "Ladies Clutch Party Wear",
+    "price": 799,
+    "image": "https://picsum.photos/seed/clutch/300/300",
+    "description": "Elegant box clutch with detachable chain and stone work.",
+    "category": "Accessories"
+  },
+  {
+    "id": 31,
+    "name": "Wireless Charging Pad 15W",
+    "price": 999,
+    "image": "https://picsum.photos/seed/wirelesscharger/300/300",
+    "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+    "category": "Electronics"
+  },
+  {
+    "id": 32,
+    "name": "GPS Running Watch Sport",
+    "price": 4499,
+    "image": "https://picsum.photos/seed/runningwatch/300/300",
+    "description": "Advanced running watch with built-in GPS and training plans.",
+    "category": "Wearables"
+  },
+  {
+    "id": 33,
+    "name": "Racing Wheel for Gaming",
+    "price": 3899,
+    "image": "https://picsum.photos/seed/racingwheel/300/300",
+    "description": "Steering wheel with pedals for realistic racing simulation.",
+    "category": "Gaming"
+  },
+  {
+    "id": 34,
+    "name": "Room Heater Quartz 800W",
+    "price": 1599,
+    "image": "https://picsum.photos/seed/roomheater/300/300",
+    "description": "Quick heating quartz room heater with safety grill.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 35,
+    "name": "Travel Adapter Universal",
+    "price": 549,
+    "image": "https://picsum.photos/seed/adapter/300/300",
+    "description": "All-in-one universal travel adapter with USB ports.",
+    "category": "Accessories"
+  },
+  {
+    "id": 36,
+    "name": "HDMI Cable 4K 2M",
+    "price": 399,
+    "image": "https://picsum.photos/seed/hdmi/300/300",
+    "description": "High speed HDMI cable supporting 4K video and Ethernet.",
+    "category": "Electronics"
+  },
+  {
+    "id": 37,
+    "name": "Digital Watch Digital-X",
+    "price": 799,
+    "image": "https://picsum.photos/seed/digitalwatch/300/300",
+    "description": "Rugged digital watch with stopwatch, alarm, and backlight.",
+    "category": "Wearables"
+  },
+  {
+    "id": 38,
+    "name": "Gaming Glasses Blue Light",
+    "price": 1299,
+    "image": "https://picsum.photos/seed/gamingglasses/300/300",
+    "description": "Blue light blocking glasses to reduce eye strain during gaming.",
+    "category": "Gaming"
+  },
+  {
+    "id": 39,
+    "name": "Vacuum Cleaner Handheld",
+    "price": 2199,
+    "image": "https://picsum.photos/seed/vacuum/300/300",
+    "description": "Portable handheld vacuum cleaner for car and home cleaning.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 40,
+    "name": "Unisex Cap Sporty",
+    "price": 349,
+    "image": "https://picsum.photos/seed/cap/300/300",
+    "description": "Adjustable sport cap made of breathable cotton fabric.",
+    "category": "Accessories"
+  },
+  {
+    "id": 41,
+    "name": "External SSD 500GB",
+    "price": 4500,
+    "image": "https://picsum.photos/seed/ssd/300/300",
+    "description": "Compact external solid state drive with high-speed data transfer.",
+    "category": "Electronics"
+  },
+  {
+    "id": 42,
+    "name": "Callibrated Smart Scale",
+    "price": 1199,
+    "image": "https://picsum.photos/seed/smartscale/300/300",
+    "description": "Bluetooth smart body fat scale with app synchronization.",
+    "category": "Wearables"
+  },
+  {
+    "id": 43,
+    "name": "Flight Stick Joystick Pro",
+    "price": 2999,
+    "image": "https://picsum.photos/seed/joystick/300/300",
+    "description": "Precision joystick for flight simulator games.",
+    "category": "Gaming"
+  },
+  {
+    "id": 44,
+    "name": "Air Purifier Mini Room",
+    "price": 3499,
+    "image": "https://picsum.photos/seed/airpurifier/300/300",
+    "description": "HEPA filter air purifier suitable for small rooms.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 45,
+    "name": "Minimalist Watch Silver",
+    "price": 1499,
+    "image": "https://picsum.photos/seed/silverwatch/300/300",
+    "description": "Ultra-thin minimalist watch with mesh strap.",
+    "category": "Accessories"
+  },
+  {
+    "id": 46,
+    "name": "Wireless Lavalier Microphone",
+    "price": 1799,
+    "image": "https://picsum.photos/seed/microphone/300/300",
+    "description": "Clip-on wireless mic for vlogging and video recording.",
+    "category": "Electronics"
+  },
+  {
+    "id": 47,
+    "name": "Posture Corrector Device",
+    "price": 1499,
+    "image": "https://picsum.photos/seed/posture/300/300",
+    "description": "Wearable posture corrector with vibration reminder.",
+    "category": "Wearables"
+  },
+  {
+    "id": 48,
+    "name": "Nintendo Switch Case Hard",
+    "price": 699,
+    "image": "https://picsum.photos/seed/switchcase/300/300",
+    "description": "Hard shell carrying case for Nintendo Switch console.",
+    "category": "Gaming"
+  },
+  {
+    "id": 49,
+    "name": "Induction Cooktop 1200W",
+    "price": 1399,
+    "image": "https://picsum.photos/seed/induction/300/300",
+    "description": "Energy efficient induction cooktop with touch controls.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 50,
+    "name": "Mens Grooming Kit 5-in-1",
+    "price": 1599,
+    "image": "https://picsum.photos/seed/groomingkit/300/300",
+    "description": "Multi-purpose grooming kit with trimmer and combs.",
+    "category": "Accessories"
+  },
+  {
+    "id": 51,
+    "name": "Wireless Doorbell Smart",
+    "price": 899,
+    "image": "https://picsum.photos/seed/doorbell/300/300",
+    "description": "Smart video doorbell with motion detection and two-way audio.",
+    "category": "Electronics"
+  },
+  {
+    "id": 52,
+    "name": "Heart Rate Monitor Chest",
+    "price": 2099,
+    "image": "https://picsum.photos/seed/heartrate/300/300",
+    "description": "Accurate chest strap heart rate monitor for athletes.",
+    "category": "Wearables"
+  },
+  {
+    "id": 53,
+    "name": "Gaming Keyboard Wrist Rest",
+    "price": 599,
+    "image": "https://picsum.photos/seed/wristrest/300/300",
+    "description": "Memory foam wrist rest for mechanical keyboards.",
+    "category": "Gaming"
+  },
+  {
+    "id": 54,
+    "name": "Electric Iron Dry 1000W",
+    "price": 699,
+    "image": "https://picsum.photos/seed/iron/300/300",
+    "description": "Lightweight dry iron with non-stick soleplate.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 55,
+    "name": "Sling Bag Waterproof",
+    "price": 799,
+    "image": "https://picsum.photos/seed/slingbag/300/300",
+    "description": "Compact waterproof sling bag for daily commute.",
+    "category": "Accessories"
+  },
+  {
+    "id": 56,
+    "name": "Ring Light 10 inch LED",
+    "price": 999,
+    "image": "https://picsum.photos/seed/ringlight/300/300",
+    "description": "Tabletop ring light with tripod stand for video calls.",
+    "category": "Electronics"
+  },
+  {
+    "id": 57,
+    "name": "Pedometer Step Counter",
+    "price": 599,
+    "image": "https://picsum.photos/seed/pedometer/300/300",
+    "description": "Simple clip-on pedometer to track daily steps accurately.",
+    "category": "Wearables"
+  },
+  {
+    "id": 58,
+    "name": "PS4 Thumb Grips Caps",
+    "price": 349,
+    "image": "https://picsum.photos/seed/thumbgrips/300/300",
+    "description": "Silicone thumb grip caps for PS4 controller protection.",
+    "category": "Gaming"
+  },
+  {
+    "id": 59,
+    "name": "Table Fan Rechargeable",
+    "price": 1099,
+    "image": "https://picsum.photos/seed/tablefan/300/300",
+    "description": "USB rechargeable table fan with adjustable speed.",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 60,
+    "name": "Passport Cover Leather",
+    "price": 499,
+    "image": "https://picsum.photos/seed/passport/300/300",
+    "description": "RFID blocking leather passport and travel document holder.",
+    "category": "Accessories"
+  }
+]

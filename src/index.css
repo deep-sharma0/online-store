@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* ✅ FIX: Enable dark variant */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light dark;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
+
+::selection {
+  background-color: #06b6d4;
+  color: white;
+}
